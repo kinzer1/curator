@@ -1,5 +1,4 @@
 http://netflix.github.com/curator/curator.png
-
 # IMPORTANT NOTE!!!
 
 Curator has moved to Apache. The Netflix Curator project will remain to hold Netflix
